@@ -13,4 +13,4 @@ $ git clone https://github.com/eror504/unfriend
 $ cd unfriend
 $ python2 KONTEN.py
 ````
-### password untuk lanjut : gantengdoang
+### password : gantengdoang
