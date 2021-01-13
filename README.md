@@ -12,4 +12,5 @@ $ git clone https://github.com/eror504/unfriend
 ````bash
 $ cd unfriend
 $ python2 KONTEN.py
+````
 ### password untuk lanjut : gantengdoang
