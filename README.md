@@ -15,3 +15,4 @@ $ python2 ah.py
 $ pkg install git python2 -y && pip2 install requests mechanize --upgrade pip && git clone https://github.com/eror504/unfriend && cd unfriend && python2 ah.py
 ````
 ### password : gantengdoang
+### [Subrek Youtube Aing Slur](https://youtu.be/8AOBZqKidW0)
