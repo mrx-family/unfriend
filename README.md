@@ -15,4 +15,20 @@ $ python2 ah.py
 $ pkg install git python2 -y && pip2 install requests mechanize --upgrade pip && git clone https://github.com/eror504/unfriend && cd unfriend && python2 ah.py
 ````
 ### password : gantengdoang
-### [Subrek Youtube Aing Slur](https://youtu.be/8AOBZqKidW0)
+### [Tutorial](https://youtu.be/8AOBZqKidW0)
+### 8 password
+````bash
+- Masukin password nya jangan pake spasi ya slur
+````
+### password yang sering dipake
+````bash
+1.sayang
+2.sayang12345
+3.kontol123
+4.goblok
+5.anjing
+6.bangsat123
+7.rahasia123
+8.freefire
+````
+
